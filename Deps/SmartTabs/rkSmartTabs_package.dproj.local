@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2011/02/28 12:51:01.501.dproj,C:\Users\inline-coder\Documents\RAD Studio\Projects\rkSmartTabs.dproj=C:\Users\inline-coder\Desktop\SmartTabs\rkSmartTabs.dproj</Transaction>
+    <Transaction>2011/02/28 12:52:09.734.pas,C:\Users\inline-coder\Desktop\SmartTabs\Unit1.pas=C:\Users\inline-coder\Desktop\SmartTabs\rkRegister.pas</Transaction>
+    <Transaction>2011/02/28 12:52:58.849.pas,C:\Users\inline-coder\Desktop\SmartTabs\rkRegister.pas=</Transaction>
+    <Transaction>2011/02/28 12:54:26.653.dproj,C:\Users\inline-coder\Desktop\SmartTabs\rkSmartTabs.dproj=C:\Users\inline-coder\Desktop\SmartTabs\rkSmartTabs_package.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

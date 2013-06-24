@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2011/03/02 17:52:23.176.pas,C:\Users\inline-coder\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\inline-coder\Desktop\tempad\wnd_main.pas</Transaction>
+    <Transaction>2011/03/02 17:52:23.199.dfm,C:\Users\inline-coder\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\inline-coder\Desktop\tempad\wnd_main.dfm</Transaction>
+    <Transaction>2011/03/02 17:52:24.734.dproj,C:\Users\inline-coder\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\inline-coder\Desktop\tempad\Project1.dproj</Transaction>
+    <Transaction>2011/03/02 17:52:32.686.pas,C:\Users\inline-coder\Desktop\tempad\wnd_main.pas=C:\Users\inline-coder\Desktop\tempad\unt_wnd_main.pas</Transaction>
+    <Transaction>2011/03/02 17:52:32.686.dfm,C:\Users\inline-coder\Desktop\tempad\wnd_main.dfm=C:\Users\inline-coder\Desktop\tempad\unt_wnd_main.dfm</Transaction>
+    <Transaction>2011/03/02 17:54:50.703.pas,C:\Users\inline-coder\Desktop\tempad\Unit1.pas=C:\Users\inline-coder\Desktop\tempad\unt_tabmanager.pas</Transaction>
+    <Transaction>2011/03/03 01:19:14.084.dproj,C:\Users\inline-coder\Desktop\tempad\Project1.dproj=C:\Users\inline-coder\Desktop\tempad\tempad.dproj</Transaction>
+    <Transaction>2011/12/03 08:26:30.090.pas,D:\Development\Projects\_purpose\Tempad\Unit1.pas=D:\Development\Projects\_purpose\Tempad\unt_wnd_recentTabManager.pas</Transaction>
+    <Transaction>2011/12/03 08:26:30.090.dfm,D:\Development\Projects\_purpose\Tempad\Unit1.dfm=D:\Development\Projects\_purpose\Tempad\unt_wnd_recentTabManager.dfm</Transaction>
+    <Transaction>2012/03/24 13:48:37.644.pas,D:\Development\Projects\_purpose\Tempad\Unit1.pas=D:\Development\Projects\_purpose\Tempad\unt_wnd_preview.pas</Transaction>
+    <Transaction>2012/03/24 13:48:37.644.dfm,D:\Development\Projects\_purpose\Tempad\Unit1.dfm=D:\Development\Projects\_purpose\Tempad\unt_wnd_preview.dfm</Transaction>
+    <Transaction>2012/04/07 05:14:44.372.pas,D:\Development\Projects\_purpose\Tempad\Unit1.pas=D:\Development\Projects\_purpose\Tempad\unt_wnd_about.pas</Transaction>
+    <Transaction>2012/04/07 05:14:44.372.dfm,D:\Development\Projects\_purpose\Tempad\Unit1.dfm=D:\Development\Projects\_purpose\Tempad\unt_wnd_about.dfm</Transaction>
+    <Transaction>2012/04/13 08:10:25.764.pas,D:\Development\Projects\_purpose\Tempad\Unit1.pas=D:\Development\Projects\_purpose\Tempad\unt_wnd_linkedToFlies.pas</Transaction>
+    <Transaction>2012/04/13 08:10:25.764.dfm,D:\Development\Projects\_purpose\Tempad\Unit1.dfm=D:\Development\Projects\_purpose\Tempad\unt_wnd_linkedToFlies.dfm</Transaction>
+    <Transaction>2012/04/15 18:09:34.200.pas,D:\Development\Projects\_purpose\Tempad\Unit1.pas=D:\Development\Projects\_purpose\Tempad\unt_wnd_preferences.pas</Transaction>
+    <Transaction>2012/04/15 18:09:34.200.dfm,D:\Development\Projects\_purpose\Tempad\Unit1.dfm=D:\Development\Projects\_purpose\Tempad\unt_wnd_preferences.dfm</Transaction>
+    <Transaction>2012/04/19 15:57:25.838.pas,D:\Development\Projects\_purpose\Tempad\Unit2.pas=D:\Development\Projects\_purpose\Tempad\unt_wnd_search.pas</Transaction>
+    <Transaction>2012/04/19 15:57:25.838.dfm,D:\Development\Projects\_purpose\Tempad\Unit2.dfm=D:\Development\Projects\_purpose\Tempad\unt_wnd_search.dfm</Transaction>
+    <Transaction>2012/04/19 16:33:06.628.pas,D:\Development\Projects\_purpose\Tempad\Unit1.pas=D:\Development\Projects\_purpose\Tempad\unt_frame_ProgressNotifier.pas</Transaction>
+    <Transaction>2012/04/19 16:33:06.628.dfm,D:\Development\Projects\_purpose\Tempad\Unit1.dfm=D:\Development\Projects\_purpose\Tempad\unt_frame_ProgressNotifier.dfm</Transaction>
+    <Transaction>2012/04/19 16:54:02.922.pas,D:\Development\Projects\_purpose\Tempad\Unit1.pas=D:\Development\Projects\_purpose\Tempad\unt_frame_ErrorNotifier.pas</Transaction>
+    <Transaction>2012/04/19 16:54:02.922.dfm,D:\Development\Projects\_purpose\Tempad\Unit1.dfm=D:\Development\Projects\_purpose\Tempad\unt_frame_ErrorNotifier.dfm</Transaction>
+    <Transaction>2012/04/28 19:14:06.097.pas,D:\Development\Projects\_purpose\Tempad\Unit2.pas=D:\Development\Projects\_purpose\Tempad\unt_wnd_replace.pas</Transaction>
+    <Transaction>2012/04/28 19:14:06.097.dfm,D:\Development\Projects\_purpose\Tempad\Unit2.dfm=D:\Development\Projects\_purpose\Tempad\unt_wnd_replace.dfm</Transaction>
+    <Transaction>2012/08/04 18:25:09.181.pas,D:\Development\Projects\_purpose\Tempad\Unit1.pas=D:\Development\Projects\_purpose\Tempad\unt_frame_globalSearch.pas</Transaction>
+    <Transaction>2012/08/04 18:25:09.181.dfm,D:\Development\Projects\_purpose\Tempad\Unit1.dfm=D:\Development\Projects\_purpose\Tempad\unt_frame_globalSearch.dfm</Transaction>
+    <Transaction>2012/08/05 02:08:26.233.pas,D:\Development\Projects\_purpose\Tempad\unt_frame_globalSearch.pas=</Transaction>
+    <Transaction>2012/08/05 02:08:26.233.dfm,D:\Development\Projects\_purpose\Tempad\unt_frame_globalSearch.dfm=</Transaction>
+    <Transaction>2012/08/05 02:35:56.855.pas,D:\Development\Projects\_purpose\Tempad\Unit1.pas=D:\Development\Projects\_purpose\Tempad\unt_wnd_globalSearch.pas</Transaction>
+    <Transaction>2012/08/05 02:35:56.855.dfm,D:\Development\Projects\_purpose\Tempad\Unit1.dfm=D:\Development\Projects\_purpose\Tempad\unt_wnd_globalSearch.dfm</Transaction>
+    <Transaction>2012.08.16 20:11:30.928.pas,D:\Development\Projects\_purpose\Tempad\Unit1.pas=D:\Development\Projects\_purpose\Tempad\unt_exceptionHandling.pas</Transaction>
+  </Transactions>
+</BorlandProject>
