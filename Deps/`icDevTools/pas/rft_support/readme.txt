@@ -1,0 +1,1 @@
+source was taken from   http://flocke.vssd.de/prog/code/pascal/rtflabel/

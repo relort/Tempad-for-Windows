@@ -1,0 +1,63 @@
+package icDevTools;
+
+{$R *.res}
+{$R 'res\dxContainer.dcr'}
+{$R 'res\dxCore.dcr'}
+{$R 'res\dxButtons.dcr'}
+{$R 'res\dxCheckCtrls.dcr'}
+{$ALIGN 8}
+{$ASSERTIONS ON}
+{$BOOLEVAL OFF}
+{$DEBUGINFO ON}
+{$EXTENDEDSYNTAX ON}
+{$IMPORTEDDATA ON}
+{$IOCHECKS ON}
+{$LOCALSYMBOLS ON}
+{$LONGSTRINGS ON}
+{$OPENSTRINGS ON}
+{$OPTIMIZATION ON}
+{$OVERFLOWCHECKS OFF}
+{$RANGECHECKS OFF}
+{$REFERENCEINFO ON}
+{$SAFEDIVIDE OFF}
+{$STACKFRAMES OFF}
+{$TYPEDADDRESS OFF}
+{$VARSTRINGCHECKS ON}
+{$WRITEABLECONST OFF}
+{$MINENUMSIZE 1}
+{$IMAGEBASE $400000}
+{$DESCRIPTION '[icDevTools] DesignXp mod by Inline-CODER'}
+{$IMPLICITBUILD OFF}
+
+requires
+  rtl,
+  vcl,
+  designide,
+  vclx,
+  vclimg;
+
+contains
+  mkObjInst,
+  icClasses,
+  icUtils,
+  dxRegister in 'pas\dxRegister.pas',
+  dxContainer in 'pas\dxContainer.pas',
+  dxCore in 'pas\dxCore.pas',
+  dxCoreUtils in 'pas\dxCoreUtils.pas',
+  dxButtons in 'pas\dxButtons.pas',
+  dxCheckCtrls in 'pas\dxCheckCtrls.pas',
+  dxListBox in 'pas\dxListBox.pas',
+  dxLabel in 'pas\dxLabel.pas',
+  dxExtLabel in 'pas\dxExtLabel.pas',
+
+    DelphiTextServ in 'pas\rft_support\DelphiTextServ.pas',
+    DrawRichText in 'pas\rft_support\DrawRichText.pas',
+    RichEdit2 in 'pas\rft_support\RichEdit2.pas',
+    RichEditDll in 'pas\rft_support\RichEditDll.pas',
+    RichOle in 'pas\rft_support\RichOle.pas',
+    RichTom in 'pas\rft_support\RichTom.pas',
+    TextServ in 'pas\rft_support\TextServ.pas',
+    ThiscallWrapper in 'pas\rft_support\ThiscallWrapper.pas';
+
+end.
+
